@@ -18,7 +18,6 @@ A code editor or IDE (e.g., IntelliJ IDEA, Eclipse, or a text editor like VS Cod
 How to Use
 
 Once the program starts, you will be presented with a menu to choose from the following options:
-
 Check Balance: Displays your current account balance.
 Deposit Money: Prompts you to enter an amount to deposit into your account.
 Withdraw Money: Prompts you to enter an amount to withdraw. (Ensure you have sufficient funds to complete the withdrawal.)
